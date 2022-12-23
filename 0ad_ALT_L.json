@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "description": "0ad_ALT_L",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 62,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": true,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<alt>"
+        ],
+        "hotKey": "l"
+    },
+    "filter": {
+        "regex": "pyrogenesis.pyrogenesis",
+        "isRecursive": false
+    }
+}

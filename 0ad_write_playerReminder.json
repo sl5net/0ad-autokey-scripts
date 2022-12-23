@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "description": "0ad_write_playerReminder",
+    "store": {},
+    "modes": [],
+    "usageCount": 0,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": true,
+    "abbreviation": {
+        "abbreviations": [
+            "test2",
+            "test1",
+            ""
+        ],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": true,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": null
+    },
+    "filter": {
+        "regex": "pyrogenesis.pyrogenesis",
+        "isRecursive": false
+    }
+}

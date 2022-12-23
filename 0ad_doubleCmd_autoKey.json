@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "description": "0ad_doubleCmd_autoKey",
+    "store": {},
+    "modes": [
+        1
+    ],
+    "usageCount": 11,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": true,
+    "abbreviation": {
+        "abbreviations": [
+            "autokey"
+        ],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": true,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": null
+    },
+    "filter": {
+        "regex": "doublecmd.Doublecmd",
+        "isRecursive": false
+    }
+}

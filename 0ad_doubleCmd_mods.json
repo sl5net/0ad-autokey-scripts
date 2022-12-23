@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "description": "0ad_doubleCmd_mods",
+    "store": {},
+    "modes": [
+        1
+    ],
+    "usageCount": 4,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": true,
+    "abbreviation": {
+        "abbreviations": [
+            "mods"
+        ],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": true,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": null
+    },
+    "filter": {
+        "regex": "(Open File \u2014 Kate)|doublecmd",
+        "isRecursive": false
+    }
+}

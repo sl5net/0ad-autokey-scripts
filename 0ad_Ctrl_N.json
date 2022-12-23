@@ -1,0 +1,35 @@
+{
+    "type": "script",
+    "description": "0ad_Ctrl_N",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 119,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": true,
+    "abbreviation": {
+        "abbreviations": [
+            "affe",
+            "baum",
+            "haus",
+            ""
+        ],
+        "backspace": true,
+        "ignoreCase": true,
+        "immediate": true,
+        "triggerInside": true,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<ctrl>"
+        ],
+        "hotKey": "n"
+    },
+    "filter": {
+        "regex": "pyrogenesis.pyrogenesis",
+        "isRecursive": false
+    }
+}

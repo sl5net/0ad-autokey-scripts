@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "description": "0ad_ppppp_Observer_select",
+    "store": {},
+    "modes": [],
+    "usageCount": 39,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": true,
+    "abbreviation": {
+        "abbreviations": [
+            "test2",
+            "test1",
+            ""
+        ],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": true,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": null
+    },
+    "filter": {
+        "regex": "pyrogenesis.pyrogenesis",
+        "isRecursive": false
+    }
+}

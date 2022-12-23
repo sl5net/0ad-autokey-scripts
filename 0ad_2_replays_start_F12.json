@@ -1,0 +1,31 @@
+{
+    "type": "script",
+    "description": "0ad_2_replays_start_F12",
+    "store": {},
+    "modes": [],
+    "usageCount": 74,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [
+            "affe",
+            "baum",
+            "haus",
+            ""
+        ],
+        "backspace": true,
+        "ignoreCase": true,
+        "immediate": true,
+        "triggerInside": true,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": null
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "description": "0ad_altF4_close0ad",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 39,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": true,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<alt>"
+        ],
+        "hotKey": "<f4>"
+    },
+    "filter": {
+        "regex": "pyrogenesis.pyrogenesis",
+        "isRecursive": false
+    }
+}

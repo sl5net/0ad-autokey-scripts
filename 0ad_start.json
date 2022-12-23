@@ -1,0 +1,31 @@
+{
+    "type": "script",
+    "description": "0ad_start",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 234,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": true,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<alt>",
+            "<ctrl>"
+        ],
+        "hotKey": "<np_insert>"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}
