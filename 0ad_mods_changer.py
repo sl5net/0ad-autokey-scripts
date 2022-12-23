@@ -34,8 +34,8 @@ if retCode == 0:
 # mod.enabledmods = "mod public StarGUI7 boonGUI-with-working-hardcoded-beepIdle better_summary_charts"
 
     kate = "kate"
-    userCfg = "/home/seeh/snap/0ad/current/.config/0ad/config/user.cfg"
-    # c2 = "/home/seeh/snap/0ad/464/.config/0ad/config/user.cfg"
+    userCfg = home snap/0ad/current/.config/0ad/config/user.cfg"
+    # c2 = "/home /snap/0ad/464/.config/0ad/config/user.cfg"
 
     with open (userCfg, 'r+' ) as f:
         content = f.read()
@@ -46,7 +46,7 @@ if retCode == 0:
 
     # p2 = subprocess.Popen( [ kate, userCfg ] ) # works 22-0911_1150-40
     
-    # process = Popen(['kate', '/home/seeh/snap/0ad/current/.config/0ad/config/user.cfg', '-d'], stdout=PIPE, stderr=PIPE)
+    # process = Popen(['kate', '/home/ snap/0ad/current/.config/0ad/config/user.cfg', '-d'], stdout=PIPE, stderr=PIPE)
     # stdout, stderr = process.communicate()
     # clipboard.fill_clipboard( content_new )
 
